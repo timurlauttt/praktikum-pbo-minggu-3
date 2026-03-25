@@ -1,10 +1,10 @@
-public class Kendaraan {
+// public class Kendaraan {
 
-    String merk;
+//     String merk;
 
-    public void jalan(){
-        System.out.println("Kendaraan berjalan");
-    }
+//     public void jalan(){
+//         System.out.println("Kendaraan berjalan");
+//     }
 
     
-}
+// }

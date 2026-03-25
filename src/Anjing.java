@@ -1,6 +1,6 @@
-public class Anjing extends Hewan{
+// public class Anjing extends Hewan{
     
-    void suara(){
-        System.out.println("Anjing menggonggong");
-    }
-}
+//     void suara(){
+//         System.out.println("Anjing menggonggong");
+//     }
+// }

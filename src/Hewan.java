@@ -1,6 +1,6 @@
-public class Hewan{
+// public class Hewan{
     
-    void suara(){
-        System.out.println("Hewan bersuara");
-    }
-}
+//     void suara(){
+//         System.out.println("Hewan bersuara");
+//     }
+// }
